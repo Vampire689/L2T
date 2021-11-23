@@ -1,0 +1,14 @@
+cifardata/
+mnistdata/
+*.jpg
+*.pdf
+*.eps
+.vscode/
+*.pyc
+screenlog.0
+cifar_results/
+mnist_results/
+generate_mnist_dataset.py
+train_mnist_nn.py
+train_nn.py
+visualize_improvement.py
